@@ -98,6 +98,9 @@ set(config_module_list
 	modules/logger
 	modules/sdlog2
 
+	#AHRS
+	examples/ahrs
+
 	#
 	# Library modules
 	#
